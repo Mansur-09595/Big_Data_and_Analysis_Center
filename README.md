@@ -33,3 +33,19 @@
 login: admin
 
 password: admin
+
+### Документация по API:
+
+admin/
+
+api/
+
+api-auth/login
+
+api/rest-auth/
+
+api/rest-auth/registration
+
+docs/
+
+swagger-docs/
